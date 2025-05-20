@@ -1,0 +1,14 @@
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\bin\Debug\net8.0\QuanLyKhoaHoc.exe
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\bin\Debug\net8.0\QuanLyKhoaHoc.deps.json
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\bin\Debug\net8.0\QuanLyKhoaHoc.runtimeconfig.json
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\bin\Debug\net8.0\QuanLyKhoaHoc.dll
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\bin\Debug\net8.0\QuanLyKhoaHoc.pdb
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\QuanLyKhoaHoc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\QuanLyKhoaHoc.AssemblyInfoInputs.cache
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\QuanLyKhoaHoc.AssemblyInfo.cs
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\QuanLyKhoaHoc.csproj.CoreCompileInputs.cache
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\QuanLyKhoaHoc.dll
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\refint\QuanLyKhoaHoc.dll
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\QuanLyKhoaHoc.pdb
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\QuanLyKhoaHoc.genruntimeconfig.cache
+C:\Users\x\source\repos\QuanLyKhoaHoc\QuanLyKhoaHoc\obj\Debug\net8.0\ref\QuanLyKhoaHoc.dll
